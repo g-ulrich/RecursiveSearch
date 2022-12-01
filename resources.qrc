@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/20x20/cil-heart.png</file>
+    <file>images/icon.png</file>
+  </qresource>
+</RCC>
